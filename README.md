@@ -1,4 +1,9 @@
 ### Hey there! I'm Javier 👋
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=javico2609&show_icons=true&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javico2609&layout=compact&theme=vue-dark)
+## GitHub Stats
+
+<a href="https://github.com/javico2609">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javico2609&show_icons=true&theme=vue-dark&count_private=true" alt="Javier's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javico2609&theme=vue-dark&layout=compact" 
+    alt="Javier GitHub Top Languages" />
+</a>
