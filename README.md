@@ -6,7 +6,7 @@
     <a href="https://www.youtube.com/channel/UCF9uKbahHOibtuJdHxbCF9A"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
 </p>
 
-I'm a computer sciences engineer with over 10 years of web development experience for personal and enterprise applications. Linked to JavaScript & Typescript development, C#, Node, PHP, Flutter. Self‐motivated and enthusiastic in the path of learning, follow new trends and apply renovated knowledge in applications development..
+I'm a computer sciences engineer with over 10 years of web development experience for personal and enterprise applications. Linked to JavaScript, React, Angular, C#, Node, Flutter. Self‐motivated and enthusiastic in the path of learning, follow new trends and apply renovated knowledge in applications development..
 
 ## GitHub Stats
 
